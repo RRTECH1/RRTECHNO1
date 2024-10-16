@@ -4,3 +4,9 @@
   height: 150px;
   width: 150px;
 }
+#stopCountDisplay
+{
+  text-align: right;
+  padding-top: 0px;
+  padding-right: 50px;
+}
