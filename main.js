@@ -27,7 +27,7 @@ function startJumping() {
 
     position += 10 * direction; 
     ball.style.transform = `translateY(${position}px)`;
-  }, 10);Great! It sounds like you're ready to create a website for RR TECH, a software company. Could you provide a bit more detail about the types of software products RR TECH offers? This will help me tailor the website for your business.
+  }, 10);
 }
 
 function stopJumping() {
@@ -38,6 +38,3 @@ function stopJumping() {
 }
 //lavel 3
  
- let function gameover() {
-   
- }
